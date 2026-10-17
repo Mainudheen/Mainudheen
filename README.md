@@ -1,12 +1,31 @@
 # 👋 Hi, I'm Mainudheen S
 
-### AI & MERN Stack Developer | Machine Learning | Generative AI
 
-**Building intelligent applications. Engineering practical solutions. Turning ideas into impact.**
+<p align="center">
+  <img
+    src="IMG_8076.jpg"
+    alt="Mainudheen S - AI & MERN Stack Developer"
+    width="160"
+    style="border-radius: 50%;"
+  />
+</p>
 
-[📧 Email](mailto:mainudheen3606@gmail.com) • [💻 GitHub](https://github.com/Mainudheen) • [🧩 LeetCode](https://leetcode.com/)
+<h1 align="center">Hi 👋, I'm Mainudheen S</h1>
 
----
+<h3 align="center">
+  AI & MERN Stack Developer | Machine Learning | Generative AI
+</h3>
+
+<p align="center">
+  Building intelligent applications and turning ideas into impact 🚀
+</p>
+
+<p align="center">
+  <a href="mailto:mainudheen3606@gmail.com">📧 Email</a> •
+  <a href="https://github.com/Mainudheen">💻 GitHub</a> •
+  <a href="https://leetcode.com/">🧩 LeetCode</a>
+</p>
+
 
 ## 🚀 About Me
 

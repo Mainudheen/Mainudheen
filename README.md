@@ -26,7 +26,7 @@
   <a href="https://leetcode.com/">🧩 LeetCode</a>
 </p>
 
-
+---
 ## 🚀 About Me
 
 I'm an Artificial Intelligence and Data Science undergraduate at **Kongu Engineering College**, graduating in 2027. I enjoy building full-stack applications and integrating AI capabilities to solve real-world problems.
